@@ -38,7 +38,7 @@ Paste these sweet commands in and feel like you're in control again
 
 ```bash
 $ cat *.* | grep 'beans'
-# Let's look for some beans!
+# Now you can win the `useless use of cat award` with style!
 
 $ fleams 124
 # => command not found: fleams
